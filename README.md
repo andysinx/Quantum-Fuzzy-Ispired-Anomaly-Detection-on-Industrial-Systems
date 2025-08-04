@@ -11,7 +11,7 @@ This repository contains the complete implementation of a novel anomaly detectio
   <img src="Quantum-inspired-evolutionary-algorithm-QEA.png" alt="Quantum_Ispired_Pipeline">
 </div>
 <div align="center">
-  <img src="architecture.pdf" alt="Architecture">
+  <img src="architecture.png" alt="Architecture">
 </div>
 
 ## 📂 Repository Structure
